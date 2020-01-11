@@ -1,0 +1,64 @@
+body{
+   margin: 0;
+}
+#page-heading{
+    margin-top: 25px;
+    text-align: center;
+    color:grey;
+    font-size: 40px;
+}
+
+#outer-div{
+    text-align: center;
+}
+.list{
+    width: 30%;
+    height:25px;
+    text-align: center;
+    margin-left: 690px;
+    margin-bottom: 1px;
+    background-color: #5656ff;
+    color: white;
+}
+
+.list:hover{
+    background-color: grey;
+}
+.name{
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    padding-top: 2px;
+    
+    
+}
+.phone{
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+    padding-top: 2px;  
+}
+#form{
+    text-align: center;
+    height: 10px;
+    width: 30%;
+    margin-left: 690px;
+    margin-top: 5px;
+
+}
+.delete{
+    display: inline-block;
+    width: 10%;
+    text-align: right;
+    padding-top: 2px; 
+}
+
+.ip{
+    display: inline-block;
+    width: 34%;
+    margin-right: 22px;
+    border: 0px;
+}
+.fa-minus-circle{
+    color:red;
+}
